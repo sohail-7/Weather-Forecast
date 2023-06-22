@@ -1,0 +1,44 @@
+#c1{
+    display: flex;
+    margin-left: 50px;
+}
+
+#c2{
+    display: flex;
+    
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+
+#c33{
+
+    width: 200px;
+    height: 300px;
+    /* left: 100px;
+    top: 100px; */
+    margin-top: 180px;
+    margin-left: 100px;
+    background: white;
+
+}
+/* #c3 h1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+} */
+/* #c4{
+
+    width: 200px;
+    height: 300px;
+    /* left: 100px;
+    top: 100px; */
+    margin-left: 700px;
+    background: white;
+
+} */
+
+
+
+
